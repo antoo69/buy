@@ -1,0 +1,6 @@
+python-dotenv
+pyrogram
+tgcrypto
+pillow
+qrcode
+sqlite3
